@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="SerRestApp:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="SerRest.war">
-      <element id="artifact" artifact-name="SerRestApp:war exploded" />
-    </root>
-  </artifact>
-</component>
